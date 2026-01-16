@@ -1,0 +1,2 @@
+ffplay -nodisp -autoexit $HOME/.config/assets/sfx/logon.mp3 >/dev/null 2>&1 &
+

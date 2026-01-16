@@ -1,0 +1,4 @@
+#!/bin/bash
+ffplay -nodisp -autoexit /home/lukkotemplar/.config/assets/sfx/logoff.wav 2>/dev/null &
+sleep 3
+reboot

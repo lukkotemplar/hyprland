@@ -1,0 +1,8 @@
+#!/bin/bash
+vol=$(wpctl get-volume @DEFAULT_AUDIO_SINK@ | awk '{print int($2*100)}')
+if wpctl get-volume @DEFAULT_AUDIO_SINK@ | grep -q MUTED; then
+	notify-send -h string:x-canonical-private-synchronous:volume "Volume" "Muted"
+else
+ffplay -nodisp -autoexit /home/lukkotemplar/.config/assets/sfx/volume.mp3 2>/dev/null &
+notify-send -h string:x-canonical-private-synchronous:volume "Volume" "$vol%"
+fi

@@ -1,0 +1,96 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "6f1847b20ef094d4147f2b8e811ad56d9dd89528a7359b9a1af9575d9084d53b",
+    "telemetry.devDeviceId": "1ad1ff99-a505-489d-86cf-3f4000419ebc",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/lukkotemplar"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 41,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/lukkotemplar/.config/hypr": "__default__profile__",
+            "file:///home/lukkotemplar/.config/waybar": "__default__profile__",
+            "file:///home/lukkotemplar": "__default__profile__",
+            "file:///home/lukkotemplar/.config/fastfetch": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1768586560610": "__default__profile__",
+            "1768586607100": "__default__profile__",
+            "1768586692091": "__default__profile__",
+            "1768586724164": "__default__profile__",
+            "1768586744932": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#001e37",
+    "windowSplash": {
+        "zoomLevel": 0.9,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#001e37",
+            "editorBackground": "#001e37",
+            "titleBarBackground": "#001126",
+            "activityBarBackground": "#001e37",
+            "activityBarBorder": "#6a9fcb",
+            "sideBarBackground": "#001e37",
+            "sideBarBorder": "#6a9fcb",
+            "statusBarBackground": "#001126",
+            "statusBarNoFolderBackground": "#001126"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 198,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 0,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 198,
+            "auxiliaryBarWidth": 198,
+            "workspaces": {
+                "7b0c207501e6321c7f01ac6548c1fabf": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "f453a2ebdd41f2632021bf4ee9420048": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "36e4ae8137fa4556d2460576ce33e198": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "0b8e1cc0d39d94c106cd183adb96edd4": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/lukkotemplar",
+            "backupPath": "/home/lukkotemplar/.config/Code - OSS/Backups/dfa97c3c027ec33f96637b42e0697e34",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 945,
+                "height": 1008
+            }
+        },
+        "openedWindows": []
+    }
+}

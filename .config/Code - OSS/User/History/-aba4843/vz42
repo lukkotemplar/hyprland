@@ -1,0 +1,22 @@
+#
+# ~/.bashrc
+#
+if [[ -n "$HYPRLAND_INSTANCE_SIGNATURE" ]]; then
+clear
+fastfetch
+( ffplay -v 0 -nodisp -autoexit $HOME/.config/assets/sfx/terminal.wav > /dev/null 2>&1 & )
+echo "Terminal started at $(date +%H:%M:%S)"
+echo "Welcome to kitty!!"
+echo
+sleep 2
+fi
+
+export PATH=$PATH:$HOME/.config/assets/sfx:$HOME/.local/share/scripts
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+alias grep='grep --color=auto'
+alias ls='showdirs'
+alias cd='builtin cd'
+alias nvim='vi'
+PS1='\[\e[1m\]Directory: \w \[\e[34m\]>\[\e[0m\] '
+

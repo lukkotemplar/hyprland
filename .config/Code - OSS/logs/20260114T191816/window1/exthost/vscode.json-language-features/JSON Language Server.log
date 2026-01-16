@@ -1,0 +1,28 @@
+2026-01-14 19:18:19.331 [info] cancelled
+2026-01-14 19:18:19.428 [info] read schema from vscode: vscode://schemas/settings/user
+2026-01-14 19:18:19.573 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2026-01-14 19:18:19.584 [info] read schema from vscode: vscode://schemas/launch
+2026-01-14 19:18:19.589 [info] read schema from vscode: vscode://schemas/token-styling
+2026-01-14 19:18:19.589 [info] read schema from vscode: vscode://schemas/textmate-colors
+2026-01-14 19:18:19.590 [info] read schema from vscode: vscode://schemas/workbench-colors
+2026-01-14 19:18:19.774 [info] cancelled
+2026-01-14 19:18:20.205 [info] schema change detected vscode://schemas/settings/resourceLanguage
+2026-01-14 19:18:20.207 [info] read schema from vscode: vscode://schemas/settings/user
+2026-01-14 19:18:20.297 [info] schema change detected vscode://schemas/settings/user
+2026-01-14 19:18:20.338 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2026-01-14 19:18:20.483 [info] cancelled
+2026-01-14 19:18:20.485 [info] read schema from vscode: vscode://schemas/settings/user
+2026-01-14 19:18:20.555 [info] schema change detected vscode://schemas/settings/user
+2026-01-14 19:18:20.578 [info] read schema from vscode: vscode://schemas/settings/resourceLanguage
+2026-01-14 19:18:20.585 [info] read schema from vscode: vscode://schemas/launch
+2026-01-14 19:18:20.588 [info] read schema from vscode: vscode://schemas/token-styling
+2026-01-14 19:18:20.588 [info] read schema from vscode: vscode://schemas/textmate-colors
+2026-01-14 19:18:20.589 [info] read schema from vscode: vscode://schemas/workbench-colors
+2026-01-14 19:18:20.718 [info] cancelled
+2026-01-14 19:18:20.719 [info] read schema from vscode: vscode://schemas/settings/user
+2026-01-14 19:18:21.246 [info] schema change detected vscode://schemas/settings/user
+2026-01-14 19:18:21.249 [info] read schema from vscode: vscode://schemas/settings/user
+2026-01-14 19:18:24.064 [info] schema change detected vscode://schemas/launch
+2026-01-14 19:18:24.066 [info] read schema from vscode: vscode://schemas/settings/user
+2026-01-14 19:18:24.147 [info] read schema from vscode: vscode://schemas/launch
+2026-01-14 19:18:28.358 [info] schema change detected vscode://schemas/settings/user
