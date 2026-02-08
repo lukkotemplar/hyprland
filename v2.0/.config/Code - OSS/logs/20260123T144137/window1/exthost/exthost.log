@@ -1,0 +1,105 @@
+2026-01-23 14:41:40.091 [info] Extension host with pid 5368 started
+2026-01-23 14:41:40.091 [info] Skipping acquiring lock for /home/lukkotemplar/.config/Code - OSS/User/workspaceStorage/216a70ad29daf340030a13684d639f22.
+2026-01-23 14:41:40.188 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-01-23 14:41:40.236 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-01-23 14:41:40.266 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2026-01-23 14:41:40.344 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2026-01-23 14:41:40.704 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2026-01-23 14:41:41.011 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-01-23 14:41:41.055 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-01-23 14:41:41.127 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-01-23 14:41:41.309 [info] Eager extensions activated
+2026-01-23 14:41:41.310 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-01-23 14:41:41.314 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-01-23 14:41:42.055 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at T (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:34312)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:212:104674)
+	at x.activate (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:950362)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2447)
+2026-01-23 15:22:25.837 [error] [ms-python.python] provider FAILED
+2026-01-23 15:22:25.837 [error] Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2026347)
+	at oe (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2024307)
+	at Immediate.<anonymous> (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2020601)
+	at process.processImmediate (node:internal/timers:485:21)
+2026-01-23 15:22:26.461 [error] [ms-python.python] provider FAILED
+2026-01-23 15:22:26.461 [error] Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2026347)
+	at oe (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2024307)
+	at Immediate.<anonymous> (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2020601)
+	at process.processImmediate (node:internal/timers:485:21)
+2026-01-23 15:33:26.312 [error] [ms-python.python] provider FAILED
+2026-01-23 15:33:26.312 [error] Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2026347)
+	at oe (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2024307)
+	at Immediate.<anonymous> (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2020601)
+	at process.processImmediate (node:internal/timers:485:21)
+2026-01-23 15:33:32.006 [error] [ms-python.python] provider FAILED
+2026-01-23 15:33:32.006 [error] Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2026347)
+	at oe (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2024307)
+	at Immediate.<anonymous> (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2020601)
+	at process.processImmediate (node:internal/timers:485:21)
+2026-01-23 15:34:27.574 [error] [ms-python.python] provider FAILED
+2026-01-23 15:34:27.574 [error] Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2026347)
+	at oe (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2024307)
+	at Immediate.<anonymous> (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2020601)
+	at process.processImmediate (node:internal/timers:485:21)
+2026-01-23 15:34:28.580 [error] [ms-python.python] provider FAILED
+2026-01-23 15:34:28.580 [error] Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2026347)
+	at oe (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2024307)
+	at Immediate.<anonymous> (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2020601)
+	at process.processImmediate (node:internal/timers:485:21)
+2026-01-23 15:39:38.440 [error] [ms-python.python] provider FAILED
+2026-01-23 15:39:38.441 [error] Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2026347)
+	at oe (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2024307)
+	at Immediate.<anonymous> (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2020601)
+	at process.processImmediate (node:internal/timers:485:21)
+2026-01-23 15:42:52.589 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2026-01-23 15:42:55.432 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-01-23 15:43:00.170 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2026-01-23 15:44:18.990 [error] [ms-python.python] provider FAILED
+2026-01-23 15:44:18.990 [error] Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2026347)
+	at oe (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2024307)
+	at Immediate.<anonymous> (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2020601)
+	at process.processImmediate (node:internal/timers:485:21)
+2026-01-23 15:45:05.273 [error] [ms-python.python] provider FAILED
+2026-01-23 15:45:05.273 [error] Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2026347)
+	at oe (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2024307)
+	at Immediate.<anonymous> (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2020601)
+	at process.processImmediate (node:internal/timers:485:21)
+2026-01-23 15:53:30.627 [error] [ms-python.python] provider FAILED
+2026-01-23 15:53:30.627 [error] Error: UnboundLocalError: cannot access local variable 'start_index' where it is not associated with a value
+	at ae (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2026347)
+	at oe (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2024307)
+	at Immediate.<anonymous> (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2020601)
+	at process.processImmediate (node:internal/timers:485:21)
+2026-01-23 16:22:42.571 [error] [ms-python.python] provider FAILED
+2026-01-23 16:22:42.571 [error] Error: KeyError: 'complement'
+	at ae (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2026347)
+	at oe (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2024307)
+	at Immediate.<anonymous> (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2020601)
+	at process.processImmediate (node:internal/timers:485:21)
+2026-01-23 17:33:41.741 [info] Extension host terminating: renderer closed the MessagePort
+2026-01-23 17:33:41.754 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/lukkotemplar/.vscode-oss/extensions/ms-python.vscode-python-envs-1.16.0-universal/dist/extension.js:2:689250)
+	at HX.eb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+	at Array.map (<anonymous>)
+	at HX.$ (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+	at HX.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+	at yN.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+	at Us (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:404:11129)
+	at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:404:7604)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-01-23 17:33:41.760 [info] Extension host with pid 5368 exiting with code 0

@@ -1,0 +1,19 @@
+{
+    "window.zoomLevel": 0.9,
+    "breadcrumbs.enabled": false,
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "'IosevkaTerm Nerd Font', 'monospace', monospace",
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "workbench.colorCustomizations": {
+        "editor.background":"#001e37",
+        "activityBar.activeBackground":"#1e486b",
+        "activityBar.background":"#001e37",
+        "sideBar.background": "#001e37",
+        "sideBarSectionHeader.background": "#1e486b"
+    }
+}

@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+ffplay -nodisp -autoexit $HOME/.config/assets/sfx/logon.mp3 >/dev/null 2>&1
+ffplay -nodisp -autoexit $HOME/.config/assets/sfx/ambient.mp3 >/dev/null 2>&1 &

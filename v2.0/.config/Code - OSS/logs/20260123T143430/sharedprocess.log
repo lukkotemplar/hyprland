@@ -1,0 +1,27 @@
+2026-01-23 14:41:09.952 [info] Getting Manifest... ericsia.pythonsnippets3
+2026-01-23 14:41:10.640 [info] Installing extension: ericsia.pythonsnippets3 {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lukkotemplar/.vscode-oss/extensions/extensions.json","path":"/home/lukkotemplar/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.1","date":"2025-12-19T12:27:49.310Z"}}
+2026-01-23 14:41:12.965 [info] Extension signature verification result for ericsia.pythonsnippets3: Success. Executed: true. Duration: 978ms.
+2026-01-23 14:41:13.003 [info] Extracted extension to file:///home/lukkotemplar/.vscode-oss/extensions/ericsia.pythonsnippets3-3.3.18-universal: ericsia.pythonsnippets3
+2026-01-23 14:41:13.014 [info] Renamed to /home/lukkotemplar/.vscode-oss/extensions/ericsia.pythonsnippets3-3.3.18-universal
+2026-01-23 14:41:13.027 [info] Extension installed successfully: ericsia.pythonsnippets3 vscode-userdata:/home/lukkotemplar/.vscode-oss/extensions/extensions.json
+2026-01-23 14:41:20.047 [info] Getting Manifest... ms-python.python
+2026-01-23 14:41:20.228 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lukkotemplar/.vscode-oss/extensions/extensions.json","path":"/home/lukkotemplar/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.1","date":"2025-12-19T12:27:49.310Z"}}
+2026-01-23 14:41:20.709 [info] Getting Manifest... ms-python.debugpy
+2026-01-23 14:41:20.922 [info] Getting Manifest... ms-python.vscode-python-envs
+2026-01-23 14:41:21.142 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lukkotemplar/.vscode-oss/extensions/extensions.json","path":"/home/lukkotemplar/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.1","date":"2025-12-19T12:27:49.310Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-01-23 14:41:21.143 [info] Installing extension: ms-python.vscode-python-envs {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lukkotemplar/.vscode-oss/extensions/extensions.json","path":"/home/lukkotemplar/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.1","date":"2025-12-19T12:27:49.310Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-01-23 14:41:26.247 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 825ms.
+2026-01-23 14:41:26.338 [info] Extension signature verification result for ms-python.vscode-python-envs: Success. Executed: true. Duration: 472ms.
+2026-01-23 14:41:26.445 [info] Extracted extension to file:///home/lukkotemplar/.vscode-oss/extensions/ms-python.vscode-python-envs-1.16.0-universal: ms-python.vscode-python-envs
+2026-01-23 14:41:26.462 [info] Renamed to /home/lukkotemplar/.vscode-oss/extensions/ms-python.vscode-python-envs-1.16.0-universal
+2026-01-23 14:41:26.869 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 791ms.
+2026-01-23 14:41:27.743 [info] Extracted extension to file:///home/lukkotemplar/.vscode-oss/extensions/ms-python.debugpy-2024.0.0-linux-x64: ms-python.debugpy
+2026-01-23 14:41:27.779 [info] Renamed to /home/lukkotemplar/.vscode-oss/extensions/ms-python.debugpy-2024.0.0-linux-x64
+2026-01-23 14:41:28.031 [info] Extracted extension to file:///home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal: ms-python.python
+2026-01-23 14:41:28.154 [info] Renamed to /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal
+2026-01-23 14:41:28.177 [info] Extension installed successfully: ms-python.vscode-python-envs vscode-userdata:/home/lukkotemplar/.vscode-oss/extensions/extensions.json
+2026-01-23 14:41:28.177 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/lukkotemplar/.vscode-oss/extensions/extensions.json
+2026-01-23 14:41:28.178 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/lukkotemplar/.vscode-oss/extensions/extensions.json
+2026-01-23 14:41:31.710 [info] Uninstalling extension from the profile: ericsia.pythonsnippets3@3.3.18 vscode-userdata:/home/lukkotemplar/.vscode-oss/extensions/extensions.json
+2026-01-23 14:41:31.741 [info] Marked extension as removed ericsia.pythonsnippets3-3.3.18-universal
+2026-01-23 14:41:31.997 [info] Successfully uninstalled extension from the profile ericsia.pythonsnippets3@3.3.18 vscode-userdata:/home/lukkotemplar/.vscode-oss/extensions/extensions.json

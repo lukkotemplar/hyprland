@@ -1,0 +1,36 @@
+2026-01-23 14:34:33.730 [info] Extension host with pid 4543 started
+2026-01-23 14:34:33.730 [info] Skipping acquiring lock for /home/lukkotemplar/.config/Code - OSS/User/workspaceStorage/216a70ad29daf340030a13684d639f22.
+2026-01-23 14:34:33.752 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-01-23 14:34:33.794 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-01-23 14:34:33.884 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-01-23 14:34:33.910 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-01-23 14:34:33.999 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-01-23 14:34:34.158 [info] Eager extensions activated
+2026-01-23 14:34:34.188 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-01-23 14:34:34.196 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-01-23 14:41:28.482 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2026-01-23 14:41:28.564 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2026-01-23 14:41:28.615 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+2026-01-23 14:41:30.122 [error] Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at T (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:34312)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:212:104674)
+	at x.activate (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:950362)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2447)
+2026-01-23 14:41:35.259 [info] Extension host terminating: renderer closed the MessagePort
+2026-01-23 14:41:35.279 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+	at Object.X [as deactivate] (/home/lukkotemplar/.vscode-oss/extensions/ms-python.vscode-python-envs-1.16.0-universal/dist/extension.js:2:689250)
+	at HX.eb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:11850)
+	at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+	at Array.map (<anonymous>)
+	at HX.$ (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+	at HX.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+	at yN.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+	at Us (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:404:11129)
+	at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:404:7604)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-01-23 14:41:35.288 [info] Extension host with pid 4543 exiting with code 0

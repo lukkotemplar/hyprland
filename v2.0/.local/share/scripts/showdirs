@@ -1,0 +1,40 @@
+#!/bin/bash
+dirs=()
+files=()
+
+for item in *; do
+	[ ! -e "$item" ] && continue
+
+	if [ -d "$item" ]; then
+		dirs+=($item)
+	elif [ -f "$item" ]; then
+		files+=($item)
+	fi
+done
+
+if [ ${#dirs[@]} -eq 0 ] && [ ${#files[@]} -eq 0 ]; then
+	echo "Empty Directory"
+	echo
+	exit 0
+fi
+
+print_line() {
+	local color=$1
+	shift
+	local arr=("$@")
+	if [ ${#arr[@]} -gt 0 ]; then
+		echo -e "${color}${arr[*]}\e[0m"
+	fi
+}
+
+if [ ${#dirs[@]} -gt 0 ]; then
+	echo "Dirs:"
+	print_line "\e[32m" "${dirs[@]}"
+	echo
+fi
+
+if [ ${#files[@]} -gt 0 ]; then
+	echo "Files:"
+	print_line "\e[33m" "${files[@]}"
+	echo
+fi

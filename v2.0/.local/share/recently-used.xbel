@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/lukkotemplar/Downloads/pdf-sample_0.pdf" added="2026-01-09T21:06:43.142532Z" modified="2026-01-09T21:06:43.469831Z" visited="2026-01-09T21:06:43.142534Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-09T21:06:43.469819Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/Downloads/IosevkaTerm.zip" added="2026-01-09T21:27:06.464706Z" modified="2026-01-09T21:27:06.464714Z" visited="2026-01-09T21:27:06.464707Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-09T21:27:06.464710Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/Downloads/853900.jpg" added="2026-01-10T12:10:50.167551Z" modified="2026-01-10T12:10:50.167560Z" visited="2026-01-10T12:10:50.167553Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-10T12:10:50.167556Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/Downloads/BigBlueTerminal.zip" added="2026-01-13T20:20:42.534621Z" modified="2026-01-13T20:20:42.534630Z" visited="2026-01-13T20:20:42.534622Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-13T20:20:42.534625Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/My%20Downloads" added="2026-01-14T09:08:29.482158Z" modified="2026-01-14T09:08:29.482168Z" visited="2026-01-14T09:08:29.482160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-14T09:08:29.482162Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/.config/assets/sfx/logon.mp3" added="2026-01-14T09:10:21.703979Z" modified="2026-01-14T09:10:22.016138Z" visited="2026-01-14T09:10:21.703981Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-14T09:10:22.016135Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/.config/assets/sfx/logoff.mp3" added="2026-01-14T10:07:07.029599Z" modified="2026-01-14T10:07:07.349945Z" visited="2026-01-14T10:07:07.029600Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-14T10:07:07.349943Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/.config/assets/sfx/Mario_Kart_Wii_Items.zip" added="2026-01-14T12:11:45.165455Z" modified="2026-01-14T12:11:48.918512Z" visited="2026-01-14T12:11:45.165457Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-14T12:11:48.918507Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/.config/assets/sfx/volume.mp3" added="2026-01-14T14:36:47.806057Z" modified="2026-01-14T14:36:48.132429Z" visited="2026-01-14T14:36:47.806059Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-14T14:36:48.132425Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/Downloads" added="2026-01-14T17:26:39.072236Z" modified="2026-01-14T17:26:39.072243Z" visited="2026-01-14T17:26:39.072237Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-14T17:26:39.072239Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/.config/assets/sfx/terminal.mp3" added="2026-01-14T18:41:00.562872Z" modified="2026-01-14T18:41:00.882932Z" visited="2026-01-14T18:41:00.562874Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-14T18:41:00.882928Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/.config/assets/sfx/terminal.wav" added="2026-01-14T18:52:30.718021Z" modified="2026-01-14T18:52:31.027538Z" visited="2026-01-14T18:52:30.718022Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/vnd.wave"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-14T18:52:31.027532Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/.config/assets/sfx/logoff.wav" added="2026-01-14T18:54:13.208925Z" modified="2026-01-14T18:54:13.516144Z" visited="2026-01-14T18:54:13.208927Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/vnd.wave"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-14T18:54:13.516136Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/.config/assets/sfx/browser.wav" added="2026-01-16T18:09:14.361597Z" modified="2026-01-16T18:09:14.681013Z" visited="2026-01-16T18:09:14.361599Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/vnd.wave"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-16T18:09:14.681010Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/Downloads/reactionary-sddm-25.tar.xz" added="2026-01-23T18:58:38.098024Z" modified="2026-01-23T18:58:40.263683Z" visited="2026-01-23T18:58:38.098025Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-23T18:58:40.263680Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/Downloads/monochrome-sddm.tar.gz" added="2026-01-23T19:03:13.891944Z" modified="2026-01-23T19:03:14.289480Z" visited="2026-01-23T19:03:13.891945Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-23T19:03:14.289475Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/Downloads/irixium-sddm-4.tar.xz" added="2026-01-23T19:04:20.298066Z" modified="2026-01-23T19:04:20.672595Z" visited="2026-01-23T19:04:20.298067Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-23T19:04:20.672588Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/Downloads/Fedora-KDE-Desktop-Live-43-1.6.x86_64.iso" added="2026-01-23T19:14:21.524002Z" modified="2026-01-23T19:14:21.524013Z" visited="2026-01-23T19:14:21.524004Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-23T19:14:21.524007Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/Downloads/Fedora-KDE-Desktop-Live-43-1.6.x86_641.iso" added="2026-01-23T19:16:59.633573Z" modified="2026-01-23T19:34:18.426669Z" visited="2026-01-23T19:16:59.633575Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-23T19:34:18.426666Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/lukkotemplar/Downloads/xubuntu-25.10-minimal-amd64.iso" added="2026-01-23T20:37:39.489101Z" modified="2026-01-23T20:52:44.086489Z" visited="2026-01-23T20:37:39.489103Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2026-01-23T20:52:44.086484Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,138 @@
+2026-01-23 14:41:28.872 [warning] Dir "/home/lukkotemplar/Documents/Personal/Python/.pixi/envs" is not watchable (directory does not exist)
+2026-01-23 14:41:28.892 [error] Unable to check if shell integration is active [Error: Extension 'ms-python.python' CANNOT use API proposal: terminalDataWriteEvent.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalDataWriteEvent.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at T (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:34312)
+	at a.onDidWriteTerminalData (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:212:111643)
+	at new m (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:916862)
+	at ge (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1743736)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747100
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747128
+	at Se (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747195)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747675
+	at we (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747616)
+	at Pe (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747650)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1744889
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1746494
+	at Array.reduce (<anonymous>)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1746466
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1746748
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747128
+	at Se (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747195)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747675
+	at we (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747616)
+	at Pe (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747650)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1744889
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1774559
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1774580
+	at e._get (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1773593)
+	at e._getButThrowIfAsync (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1773653)
+	at e.get (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1769362)
+	at e.dynamicValue (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1759095)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1745272
+	at Ee (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1745528)
+	at Se (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747244)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747675
+	at we (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747616)
+	at Pe (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747650)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1744889
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1744823
+	at Array.map (<anonymous>)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1744794
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1746494
+	at Array.reduce (<anonymous>)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1746466
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1746748
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747128
+	at Se (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747195)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747675
+	at we (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747616)
+	at Pe (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1747650)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1744889
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1774559
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1774580
+	at e._get (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1773593)
+	at e._getButThrowIfAsync (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1773653)
+	at e.get (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:1769362)
+	at a.get (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:571120)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:480832
+	at async t.activateComponents (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:479135)
+	at async /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2710173
+	at async e (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2709627)
+	at async Ky.n (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:13398)
+	at async Ky.m (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:13361)
+	at async Ky.l (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:116:12817)]
+2026-01-23 14:41:28.902 [info] Starting Environment refresh
+2026-01-23 14:41:28.902 [info] Searching for interpreters in posix paths locator
+2026-01-23 14:41:28.910 [info] Searching for pyenv environments
+2026-01-23 14:41:28.910 [info] Searching for conda environments
+2026-01-23 14:41:28.911 [info] Searching for global virtual environments
+2026-01-23 14:41:28.911 [info] Searching for custom virtual environments
+2026-01-23 14:41:28.915 [info] pyenv is not installed
+2026-01-23 14:41:28.915 [info] Finished searching for pyenv environments: 12 milliseconds
+2026-01-23 14:41:28.915 [info] Finished searching for custom virtual envs: 11 milliseconds
+2026-01-23 14:41:28.922 [info] > conda info --json
+2026-01-23 14:41:28.929 [info] > hatch env show --json
+2026-01-23 14:41:28.929 [info] cwd: .
+2026-01-23 14:41:28.931 [info] VS Code was launched from an activated environment: 'Python', selecting it as the interpreter for workspace.
+2026-01-23 14:41:28.938 [info] > pyenv which python
+2026-01-23 14:41:28.938 [info] cwd: .
+2026-01-23 14:41:28.939 [info] Finished searching for global virtual envs: 35 milliseconds
+2026-01-23 14:41:28.956 [info] Active interpreter [/home/lukkotemplar/Documents/Personal/Python]:  /home/lukkotemplar/Documents/Personal/Python/bin/python
+2026-01-23 14:41:28.958 [info] Found: /bin/python --> /bin/python3.14
+2026-01-23 14:41:28.961 [info] Found: /bin/python3 --> /bin/python3.14
+2026-01-23 14:41:28.962 [info] Found: /bin/python3.14 --> /bin/python3.14
+2026-01-23 14:41:28.985 [info] > ./bin/python -I ~/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/python_files/interpreterInfo.py
+2026-01-23 14:41:28.988 [info] Found: /sbin/python --> /sbin/python3.14
+2026-01-23 14:41:28.989 [info] Found: /sbin/python3 --> /sbin/python3.14
+2026-01-23 14:41:28.989 [info] Found: /sbin/python3.14 --> /sbin/python3.14
+2026-01-23 14:41:28.997 [info] Found: /usr/bin/python --> /usr/bin/python3.14
+2026-01-23 14:41:28.997 [info] Found: /usr/bin/python3 --> /usr/bin/python3.14
+2026-01-23 14:41:28.997 [info] Found: /usr/bin/python3.14 --> /usr/bin/python3.14
+2026-01-23 14:41:29.018 [info] Found: /usr/sbin/python --> /usr/sbin/python3.14
+2026-01-23 14:41:29.018 [info] Found: /usr/sbin/python3 --> /usr/sbin/python3.14
+2026-01-23 14:41:29.018 [info] Found: /usr/sbin/python3.14 --> /usr/sbin/python3.14
+2026-01-23 14:41:29.019 [info] Found: /home/lukkotemplar/Documents/Personal/Python/bin/python --> /usr/bin/python3.14
+2026-01-23 14:41:29.020 [info] Found: /home/lukkotemplar/Documents/Personal/Python/bin/python3 --> /usr/bin/python3.14
+2026-01-23 14:41:29.020 [info] Found: /home/lukkotemplar/Documents/Personal/Python/bin/python3.14 --> /usr/bin/python3.14
+2026-01-23 14:41:29.025 [info] Python interpreter path: ./bin/python
+2026-01-23 14:41:29.033 [info] > /bin/python -I ~/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/python_files/interpreterInfo.py
+2026-01-23 14:41:29.041 [info] > /sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/python_files/interpreterInfo.py
+2026-01-23 14:41:29.047 [info] Finished searching for interpreters in posix paths locator: 146 milliseconds
+2026-01-23 14:41:29.051 [info] Environments refresh paths discovered (event): 152 milliseconds
+2026-01-23 14:41:29.051 [info] Environments refresh paths discovered: 152 milliseconds
+2026-01-23 14:41:29.069 [info] > /usr/bin/python -I ~/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/python_files/interpreterInfo.py
+2026-01-23 14:41:29.076 [info] > /usr/sbin/python -I ~/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/python_files/get_output_via_markers.py ~/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/python_files/interpreterInfo.py
+2026-01-23 14:41:29.106 [info] Environments refresh finished (event): 207 milliseconds
+2026-01-23 14:41:29.113 [info] Environment refresh took 215 milliseconds
+2026-01-23 14:41:29.118 [error] [
+  'Failed to activate a workspace, Class name = v, completed in 221ms, has a falsy return value, Arg 1: <Uri:/home/lukkotemplar/Documents/Personal/Python>, Arg 2: {"started":1769175688830}, Return Value: undefined',
+  [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+  Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+   The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+  	at T (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:34312)
+  	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:212:104674)
+  	at x.activate (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:950362)
+  	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2457
+  	at Array.map (<anonymous>)
+  	at v.activateWorkspace (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2447)]
+]
+2026-01-23 14:41:29.119 [error] Failure during activation. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at T (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:34312)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:212:104674)
+	at x.activate (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:950362)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2447)]
+2026-01-23 14:41:29.119 [error] sendStartupTelemetry() failed. [Error: Extension 'ms-python.python' CANNOT use API proposal: testObserver.
+Its package.json#enabledApiProposals-property declares:  but NOT testObserver.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api ms-python.python
+	at T (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:110:34312)
+	at get testResults (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:212:104674)
+	at x.activate (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:950362)
+	at /home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2457
+	at Array.map (<anonymous>)
+	at v.activateWorkspace (/home/lukkotemplar/.vscode-oss/extensions/ms-python.python-2026.0.0-universal/out/client/extension.js:2:2447)]
+2026-01-23 14:41:30.121 [info] Starting Jedi language server for Python.
